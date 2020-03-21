@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>文字段落标记的使用</title>
+</head>
+
+<body>
+	<h1>第一章 诗词歌赋</h1>
+	<h2>第一节 宋词</h2>
+	<b>作品原文</b>
+	<hr width="75%" size="2" color=#800080 align="left"><br>
+	<center><font size="5" face=仿宋_GB2312 color=green>水调歌头&middot;明月几时有</font></center><br>
+	<p align="center"><b>丙辰中秋，欢饮达旦<sup>[1]</sup>，大醉，作此篇，兼怀子由。</b></p>
+	<p align="left"><strong>明月几时有？把酒问青天。</strong>不知天上宫阙，今夕是何年？<u>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。</u>起舞弄清影，何似在人间。</p>
+	<p align="left"><small>转朱阁，低绮户，照无眠。</small>不应有恨，何事长向别时圆？<i>人有悲欢离合，月有阴晴圆缺，此事古难全。</i>但愿人长久，千里共婵娟。</p>
+	<b>注释：</b><br>
+	<hr width="75%" size="2" color=#800080 align="left"><br>
+	<small>达旦：至早晨；到清晨。</small><br>
+	<hr size="1" color="black" align="left"><br>
+	如有学习上的问题，请联系<address>yinweijing@126.com</address>
+</body>
+</html>
