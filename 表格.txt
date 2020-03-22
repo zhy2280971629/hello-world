@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>插入一个表格</title>
+</head>
+
+<body>
+	<table border="1px" bordercolor="red" width="800px" cellspacing="0px" cellpadding="3px">
+		<caption valign="top">图书分类表</caption>
+		<tr bgcolor="skyblue"><th>类别</th><th >书名</th><th>价格</th></tr>
+		<tr><td rowspan="2">计算机</td><td bgcolor="darkkhaki">web程序设计</td><td>41</td></tr>
+		<tr><td>C#开发</td><td>29</td></tr>
+		<tr><td>文学</td><td>奋斗</td><td>35</td></tr>
+		<tr><td colspan="3" align="right">日期：2013-03-08</td></tr>
+	</table>
+</body>
+</html>
+
